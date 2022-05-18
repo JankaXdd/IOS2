@@ -16,10 +16,10 @@
 /*	Deklarace promennych ve sdilene pameti
 *
 *	f - vystupni soubor
-*   hydrocount - pocet vodiku
+*   	hydrocount - pocet vodiku
 *	oxycount - pocet kysliku
 *	count - pocet atomu kysliku a vodiku
-*   A - poradove cislo provadene akce
+*   	A - poradove cislo provadene akce
 *	MOL_COUNT - pocet vytvorenych molekul
 */
 FILE *f = NULL;
